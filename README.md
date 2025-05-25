@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fabiokay
-- 👀 I’m interested in idle clickers, pizza and computers
-- 🌱 I’m currently learning python and programming
+- 👀 I’m interested in idle clickers, pizza and computers. I also produce music. 
+- 🌱 I’m currently learning python and programming. I´m working on a python based idle clicker with rhythm elements.
 - 💞️ I’m looking to collaborate on euro clicker game
 
 
